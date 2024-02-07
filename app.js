@@ -76,6 +76,6 @@ function verificarChute() {
 }
 
 
-let cores = [ 'azul', 'laranja', 'verde', 'branco','preto'];
+let cores = [ 'azul', 'laranja', 'verde', 'branco'];
 console.log(cores[cores.length -1]);
 console.log(cores[2])
