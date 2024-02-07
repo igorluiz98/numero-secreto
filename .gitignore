@@ -1,0 +1,3 @@
+temp/
+# teste.txt = ignora o arquivo 'teste.txt'
+# *.css = ignora todos os arquivos .css

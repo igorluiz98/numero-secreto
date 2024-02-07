@@ -4,7 +4,11 @@ git commit -m "projeto inicial"
 git remote add origin git@github.com:SEU_USUARIO/SEU_REPOSITORIO
 git push origin main
 
-
+git status = mostra as mudanças que foram feitas
+git log = mostra o histórico de commits
+git revert 'id do commit' = desfaz o commit colocado no id
+git reset --hard 'id do commit que ficará, não é o commit que será apagado' = apaga o commit, não é colocado o id do commit que será apagado, mas sim o id co commit anterior
+git commit --amend -m "commit alterado" = alterar a mensagem do último commit
 ---------------------
 1 - Crie uma conta no GitHub Você pode começar seguindo os passos mostrados no vídeo, preenchendo o formulário de cadastro, verificando sua conta e explorando a página inicial do GitHub.
 
